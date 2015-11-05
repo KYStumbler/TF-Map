@@ -1,0 +1,3852 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-105-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-105-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.334034,
+          39.491995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL12",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL12",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3750025,
+        "Long": -76.7935673,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.793567,
+          39.375002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LPAX-290-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LPAX-290-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.826532,
+          39.247002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bread and Cheese Creek WQ Enhancements",
+        "description": "1,700 LF of stream restoration and 1 acre of riparian buffer",
+        "title": "Bread and Cheese Creek WQ Enhancements",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.499611,
+          39.281029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Data Collected: Biology",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.812998,
+          39.238988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Back River SWM Pond Conversion",
+        "description": "One of several ponds being upgraded to current standards",
+        "title": "Upper Back River SWM Pond Conversion",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.517364,
+          39.379148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Data",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Data",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81259,
+          39.234793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Quality WC002",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Water Quality WC002",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.334253,
+          39.486956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL06",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL06",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3795524,
+        "Long": -76.7972729,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.797272,
+          39.379552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-101-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-101-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.340237,
+          39.481864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Branch North Fork Stream Restoration",
+        "description": "8,000 linear feet of stream restoration and floodplain reconnection along with innnovative water quality improvement practices",
+        "title": "West Branch North Fork Stream Restoration (Permit phase)",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.746046,
+          39.386341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL09",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL09",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3836341,
+        "Long": -76.8164485,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.816448,
+          39.383634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL13",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL13",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3739568,
+        "Long": -76.7915797,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.791579,
+          39.373956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnolia Run Stream Restoration",
+        "description": "477 LF of stream restoration along a tributary to White Marsh Run",
+        "title": "Magnolia Run Stream Restoration",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.459308,
+          39.390836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-003-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-003-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.333493,
+          39.488163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltmore County Flow Site LR13",
+        "description": "Stream Flow Trend Site",
+        "title": "Baltmore County Flow Site LR13",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Loch Raven",
+        "Lat": 39.4869292,
+        "Long": -76.64456,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.64456,
+          39.486929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL04",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL04",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3723673,
+        "Long": -76.787594,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.787594,
+          39.372367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltmore County Flow Site SL10",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltmore County Flow Site SL10",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3836942,
+        "Long": -76.8168101,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.81681,
+          39.383694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Quality WC004",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Water Quality WC004",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.327759,
+          39.492319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Station",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Station",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.327655,
+          39.492174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.812488,
+          39.235019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geomorph WC03",
+        "description": "Howard Co Monitoring for Geomorphology",
+        "title": "Geomorph WC03",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.332948,
+          39.488734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Station",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Station",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.333066,
+          39.488608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Herring Run Overlook Stream Restoration",
+        "description": "3,000 LF of stream restoration; 3.4ac of forest buffer",
+        "title": "Herring Run Overlook Stream Restoration",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58606,
+          39.37547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LWIN-108-X (Control)",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LWIN-108-X (Control)",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.328282,
+          39.46904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Three types of data are collected here:  Biological, Water Quality (Nitrogen, Phosphorus, and TSS concentrations) and Sediment",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.824393,
+          39.246999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gardens of Bel Air Stormwater Retrofit",
+        "description": "This project increases water quality and decreases stormwater discharges.",
+        "title": "Gardens of Bel Air Stormwater Retrofit",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.333489,
+          39.493057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PATL-288-X (Control)",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity.  This is a unmodified control site for comparison to the site monitoring restoration projects.",
+        "title": "PATL-288-X (Control)",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.783867,
+          39.197536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL07",
+        "description": "Type: Storm, Baseflow<br>USGS gage: <br>Old ADC: 24D10<br>ROADCROSS: Trib at Tulsmere<br>SUBSHED_: Scotts Level<br>WATERSHED: Gwynns Falls<br>Lat: 39.38<br>Long: -76.808",
+        "title": "Baltimore County Flow Site SL07",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3797075,
+        "Long": -76.8084614,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.808461,
+          39.379707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geomorph WC02",
+        "description": "Howard Co Monitoring for Geomorphology",
+        "title": "Geomorph WC02",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.334159,
+          39.488764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL02",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL02",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3676214,
+        "Long": -76.7654303,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.76543,
+          39.367621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "USGS Gaging Station",
+        "description": "Continuous flow data",
+        "title": "USGS Gaging Station",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "star",
+        "Type": "USGS Gage",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.340366,
+          39.4817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-107-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-107-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.331086,
+          39.49407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Monitoring Site SL01",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Monitoring Site SL01",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3615714,
+        "Long": -76.7617722,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.761772,
+          39.361571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Monitoring Site GW10",
+        "description": "Stream Flow Trend Site",
+        "title": "Baltimore County Flow Monitoring Site GW10",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3112653,
+        "Long": -76.7166538,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.716653,
+          39.311265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dead Run at Westview Park Stream Restoration",
+        "description": "3,000 LF of stream restoration; 3.4ac of forest buffer",
+        "title": "Dead Run at Westview Park Stream Restoration",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.585854,
+          39.375469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LPAX-294-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LPAX-294-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.818059,
+          39.244067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geomorph WC04 (Control Site)",
+        "description": "Howard Co Monitoring for Geomorphology.  This is in an unmodified watershed near to the restoration watershed for comparison.",
+        "title": "Geomorph WC04 (Control Site)",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.331145,
+          39.486689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jones Falls Stream Restoration ",
+        "description": "Construction of restoration project which will replace 600 feet of concrete channel with natural stream channel and adjacent vegetated floodplain.  Monitoring Planned: Brightwater will develop a stability monitoring program by establishing monuments for annual surveys of cross sections and a thalweg profile. Stability monitoring will also include annual pebble counts to monitor particle size distribution of materials in bed and banks. Brightwater will prepare an annual report of the results of this monitoring. The Maryland Fisheries Service, a partner in this project, will conduct annual aquatic life surveys to document the condition of the biological community in the restored reach. The biological monitoring effort will include fish and macroinvertebrates. ",
+        "title": "Jones Falls Stream Restoration (FY2014)",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": "marker-ig8cda1x0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.662447,
+          39.396208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LPAX-287-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LPAX-287-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813502,
+          39.238723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Data",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Data",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813421,
+          39.2371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-102-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-102-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.334079,
+          39.488102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL03",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL03",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3719644,
+        "Long": -76.7801202,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.78012,
+          39.371964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL08",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL08",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3804552,
+        "Long": -76.8075269,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.807526,
+          39.380455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geomorph WC01",
+        "description": "Howard Co Monitoring for Geomorphology",
+        "title": "Geomorph WC01",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.340053,
+          39.481796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DNR Flow Station",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "DNR Flow Station",
+        "marker-color": "#a3e46b",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Flow",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.335094,
+          39.485461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Three types of data are collected here:  Biological, Water Quality (Nitrogen, Phosphorus, and TSS concentrations) and Sediment",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813589,
+          39.2378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Howard Co Monitoring",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Howard Co Monitoring",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8094,
+          39.238045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Gunpowder at Proctor Stream Restoration",
+        "description": "8,000 linear feet of stream restoration and floodplain reconnection along with innnovative water quality improvement practices",
+        "title": "Lower Gunpowder at Proctor Stream Restoration (Permit Phase)",
+        "marker-color": "f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.47893,
+          39.410696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site GU08",
+        "description": "Stream Flow Trend Site",
+        "title": "Baltimore County Flow Site GU08",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Lower Gunpowder",
+        "Lat": 39.4103409,
+        "Long": -76.5558462,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.555846,
+          39.41034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site HR05",
+        "description": "Stream Flow Trend Site",
+        "title": "Baltimore County Flow Site HR05",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Back River",
+        "Lat": 39.3736579,
+        "Long": -76.5842715,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.584271,
+          39.373657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-006-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-006-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.328198,
+          39.491231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Walk Stormwater Retrofit 1A",
+        "description": "This retrofit will be designed to increase water quality and decreases stormwater discharges.",
+        "title": "Country Walk Stormwater Retrofit 1A",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.332668,
+          39.489167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Quality WC003",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Water Quality WC003",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.331149,
+          39.489684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LPAX-288-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "LPAX-288-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.813584,
+          39.237737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ATKI-004-X",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "ATKI-004-X",
+        "marker-color": "#1087bf",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "DNR Biology",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.330993,
+          39.489686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baltimore County Flow Site SL05",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Baltimore County Flow Site SL05",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "Gwynns Falls",
+        "Lat": 39.3737539,
+        "Long": -76.794692,
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.794692,
+          39.373753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salterforth Outlet",
+        "description": "Howard Co Monitoring for Nitrogen, Phosphorus, and Total Suspended Solids ",
+        "title": "Salterforth Outlet",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.810478,
+          39.238441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Festival Stormwater Retrofit",
+        "description": "This retrofit will be designed to increase water quality and decreases stormwater discharges.",
+        "title": "Stormwater Retrofit BMP",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.326853,
+          39.493049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Quality WC001",
+        "description": "Stream Discharge at Storm and Baseflow",
+        "title": "Water Quality WC001",
+        "marker-color": "#f5c272",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "Grantee Monitoring",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": "",
+        "id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.340061,
+          39.482054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Country Walk Stormwater Retrofit 1B",
+        "description": "This retrofit will be designed to increase water quality and decreases stormwater discharges.",
+        "title": "Stormwater Retrofit BMP",
+        "marker-color": "#f86767",
+        "marker-size": "",
+        "marker-symbol": "",
+        "Type": "BMP",
+        "WATERSHED": "",
+        "Lat": "",
+        "Long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.329473,
+          39.490651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56026,
+          38.89488055555555,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WEST-101-X (Control)",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "WEST-101-X (Control)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56169,
+          38.896,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WEST-102-X (Control)",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "WEST-102-X (Control)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56278,
+          38.89623055555556,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WEST-103-X (Control)",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "WEST-103-X (Control)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56435,
+          38.89776944444444,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WEST-104-X",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "WEST-104-X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56641111111111,
+          38.90003888888889,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WEST-105-X",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "WEST-105-X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5677,
+          38.90416944444444,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WEST-106-X",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "WEST-106-X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56381,
+          38.88741944444445,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WEST-107-X",
+        "Site-type": "DNR Biology",
+        "Description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "WEST-107-X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56478,
+          38.88841944444445,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WEST-108-X",
+        "Site-type": "DNR Biology",
+        "Description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "WEST-108-X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56485,
+          38.89021944444444,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "WEST-109-X",
+        "site-type": "DNR Biology",
+        "Description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "WEST-109-X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9449,
+          39.3804,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SBPA-201-X",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "SBPA-201-X" 
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96093888888889,
+          39.38073888888889,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SBPA-204-X",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+      "title": "SBPA-204-X"
+        
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96788055555555,
+          39.38325,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SBPA-205-X",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+      "title": "SBPA-205-X"
+        
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97088,
+          39.38553888888889,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SBPA-206-X",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "SBPA-206-X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93646,
+          39.37905,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SBPA-302-X",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "SBPA-302-X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94181111111112,
+          39.38186111111111,
+          0
+        ]
+      },
+      "properties": {
+        "marker-color": "#1087bf",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "SBPA-303-X",
+        "site-type": "DNR Biology",
+        "description": "MBSS Biological Site.  Samples of benthic macroinvertebrates and fishes are taken to assess biotic integrity",
+        "title": "SBPA-303-X"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.793378,
+              39.195271,
+              0
+            ],
+            [
+              -76.791511,
+              39.194853,
+              0
+            ],
+            [
+              -76.788569,
+              39.193858,
+              0
+            ],
+            [
+              -76.788225,
+              39.193388,
+              0
+            ],
+            [
+              -76.786802,
+              39.193732,
+              0
+            ],
+            [
+              -76.785208,
+              39.194671,
+              0
+            ],
+            [
+              -76.784023,
+              39.194753,
+              0
+            ],
+            [
+              -76.782512,
+              39.195757,
+              0
+            ],
+            [
+              -76.782565,
+              39.196185,
+              0
+            ],
+            [
+              -76.782142,
+              39.199236,
+              0
+            ],
+            [
+              -76.781622,
+              39.20061,
+              0
+            ],
+            [
+              -76.782122,
+              39.201104,
+              0
+            ],
+            [
+              -76.781513,
+              39.202705,
+              0
+            ],
+            [
+              -76.781379,
+              39.203535,
+              0
+            ],
+            [
+              -76.781847,
+              39.204668,
+              0
+            ],
+            [
+              -76.782333,
+              39.205147,
+              0
+            ],
+            [
+              -76.781759,
+              39.206661,
+              0
+            ],
+            [
+              -76.782452,
+              39.207349,
+              0
+            ],
+            [
+              -76.783087,
+              39.208214,
+              0
+            ],
+            [
+              -76.785319,
+              39.208899,
+              0
+            ],
+            [
+              -76.78464,
+              39.210677,
+              0
+            ],
+            [
+              -76.784809,
+              39.21261,
+              0
+            ],
+            [
+              -76.783774,
+              39.213715,
+              0
+            ],
+            [
+              -76.784553,
+              39.214229,
+              0
+            ],
+            [
+              -76.785969,
+              39.215435,
+              0
+            ],
+            [
+              -76.787062,
+              39.214719,
+              0
+            ],
+            [
+              -76.788483,
+              39.215425,
+              0
+            ],
+            [
+              -76.789838,
+              39.215876,
+              0
+            ],
+            [
+              -76.791109,
+              39.216956,
+              0
+            ],
+            [
+              -76.789942,
+              39.218321,
+              0
+            ],
+            [
+              -76.790436,
+              39.21938,
+              0
+            ],
+            [
+              -76.791724,
+              39.220039,
+              0
+            ],
+            [
+              -76.790598,
+              39.221359,
+              0
+            ],
+            [
+              -76.791108,
+              39.221813,
+              0
+            ],
+            [
+              -76.791542,
+              39.22249,
+              0
+            ],
+            [
+              -76.790593,
+              39.224481,
+              0
+            ],
+            [
+              -76.790487,
+              39.225979,
+              0
+            ],
+            [
+              -76.789384,
+              39.226734,
+              0
+            ],
+            [
+              -76.789124,
+              39.227121,
+              0
+            ],
+            [
+              -76.789488,
+              39.227618,
+              0
+            ],
+            [
+              -76.790554,
+              39.22867,
+              0
+            ],
+            [
+              -76.791641,
+              39.230161,
+              0
+            ],
+            [
+              -76.794334,
+              39.232823,
+              0
+            ],
+            [
+              -76.794849,
+              39.234591,
+              0
+            ],
+            [
+              -76.795813,
+              39.235544,
+              0
+            ],
+            [
+              -76.796094,
+              39.235183,
+              0
+            ],
+            [
+              -76.79729,
+              39.233232,
+              0
+            ],
+            [
+              -76.800404,
+              39.229987,
+              0
+            ],
+            [
+              -76.800929,
+              39.227552,
+              0
+            ],
+            [
+              -76.803141,
+              39.226023,
+              0
+            ],
+            [
+              -76.808014,
+              39.223766,
+              0
+            ],
+            [
+              -76.808547,
+              39.22278,
+              0
+            ],
+            [
+              -76.807991,
+              39.221474,
+              0
+            ],
+            [
+              -76.808149,
+              39.220259,
+              0
+            ],
+            [
+              -76.806992,
+              39.219236,
+              0
+            ],
+            [
+              -76.807065,
+              39.21763,
+              0
+            ],
+            [
+              -76.806555,
+              39.216987,
+              0
+            ],
+            [
+              -76.805498,
+              39.216151,
+              0
+            ],
+            [
+              -76.801159,
+              39.213376,
+              0
+            ],
+            [
+              -76.800502,
+              39.212091,
+              0
+            ],
+            [
+              -76.799044,
+              39.209959,
+              0
+            ],
+            [
+              -76.798458,
+              39.207017,
+              0
+            ],
+            [
+              -76.797844,
+              39.206243,
+              0
+            ],
+            [
+              -76.796135,
+              39.204963,
+              0
+            ],
+            [
+              -76.795421,
+              39.204205,
+              0
+            ],
+            [
+              -76.795122,
+              39.201424,
+              0
+            ],
+            [
+              -76.795034,
+              39.199334,
+              0
+            ],
+            [
+              -76.794664,
+              39.198172,
+              0
+            ],
+            [
+              -76.793914,
+              39.19659,
+              0
+            ],
+            [
+              -76.793378,
+              39.195271,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "stroke": "#0080c0",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.5,
+        "name": "Lower Patuxent watershed",
+        "description": "This unrestored watershed is used for comparison to the Red Hill Branch watershed, which contains several restoration projects.  This is considered the control for this study."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.808547,
+              39.22278,
+              0
+            ],
+            [
+              -76.808014,
+              39.223766,
+              0
+            ],
+            [
+              -76.803141,
+              39.226023,
+              0
+            ],
+            [
+              -76.800929,
+              39.227552,
+              0
+            ],
+            [
+              -76.800404,
+              39.229987,
+              0
+            ],
+            [
+              -76.79729,
+              39.233232,
+              0
+            ],
+            [
+              -76.796094,
+              39.235183,
+              0
+            ],
+            [
+              -76.795813,
+              39.235544,
+              0
+            ],
+            [
+              -76.797032,
+              39.237505,
+              0
+            ],
+            [
+              -76.799146,
+              39.239197,
+              0
+            ],
+            [
+              -76.799639,
+              39.239967,
+              0
+            ],
+            [
+              -76.800379,
+              39.240503,
+              0
+            ],
+            [
+              -76.801714,
+              39.241053,
+              0
+            ],
+            [
+              -76.802909,
+              39.243085,
+              0
+            ],
+            [
+              -76.803999,
+              39.244651,
+              0
+            ],
+            [
+              -76.804206,
+              39.246403,
+              0
+            ],
+            [
+              -76.803786,
+              39.247507,
+              0
+            ],
+            [
+              -76.805926,
+              39.249272,
+              0
+            ],
+            [
+              -76.806603,
+              39.250647,
+              0
+            ],
+            [
+              -76.809589,
+              39.250926,
+              0
+            ],
+            [
+              -76.811322,
+              39.25131,
+              0
+            ],
+            [
+              -76.813142,
+              39.250697,
+              0
+            ],
+            [
+              -76.814031,
+              39.251909,
+              0
+            ],
+            [
+              -76.815815,
+              39.252456,
+              0
+            ],
+            [
+              -76.816577,
+              39.252955,
+              0
+            ],
+            [
+              -76.818126,
+              39.25515,
+              0
+            ],
+            [
+              -76.819717,
+              39.255726,
+              0
+            ],
+            [
+              -76.821037,
+              39.255708,
+              0
+            ],
+            [
+              -76.821591,
+              39.256125,
+              0
+            ],
+            [
+              -76.82211,
+              39.256318,
+              0
+            ],
+            [
+              -76.822126,
+              39.25563,
+              0
+            ],
+            [
+              -76.821678,
+              39.255173,
+              0
+            ],
+            [
+              -76.822668,
+              39.253529,
+              0
+            ],
+            [
+              -76.823443,
+              39.253392,
+              0
+            ],
+            [
+              -76.823617,
+              39.25245,
+              0
+            ],
+            [
+              -76.824633,
+              39.251395,
+              0
+            ],
+            [
+              -76.825677,
+              39.251509,
+              0
+            ],
+            [
+              -76.826994,
+              39.252565,
+              0
+            ],
+            [
+              -76.82806,
+              39.2522,
+              0
+            ],
+            [
+              -76.82915,
+              39.25158,
+              0
+            ],
+            [
+              -76.83006,
+              39.251419,
+              0
+            ],
+            [
+              -76.831083,
+              39.250609,
+              0
+            ],
+            [
+              -76.832481,
+              39.249988,
+              0
+            ],
+            [
+              -76.835507,
+              39.246838,
+              0
+            ],
+            [
+              -76.836331,
+              39.246645,
+              0
+            ],
+            [
+              -76.837106,
+              39.246508,
+              0
+            ],
+            [
+              -76.837846,
+              39.246335,
+              0
+            ],
+            [
+              -76.838749,
+              39.246347,
+              0
+            ],
+            [
+              -76.838638,
+              39.246176,
+              0
+            ],
+            [
+              -76.838137,
+              39.245729,
+              0
+            ],
+            [
+              -76.83784,
+              39.244435,
+              0
+            ],
+            [
+              -76.838898,
+              39.244038,
+              0
+            ],
+            [
+              -76.84024,
+              39.241219,
+              0
+            ],
+            [
+              -76.840021,
+              39.240261,
+              0
+            ],
+            [
+              -76.838863,
+              39.240409,
+              0
+            ],
+            [
+              -76.83512,
+              39.239241,
+              0
+            ],
+            [
+              -76.832518,
+              39.238572,
+              0
+            ],
+            [
+              -76.830069,
+              39.238859,
+              0
+            ],
+            [
+              -76.828559,
+              39.239818,
+              0
+            ],
+            [
+              -76.826043,
+              39.239667,
+              0
+            ],
+            [
+              -76.82487,
+              39.238595,
+              0
+            ],
+            [
+              -76.824612,
+              39.237594,
+              0
+            ],
+            [
+              -76.823503,
+              39.237016,
+              0
+            ],
+            [
+              -76.823108,
+              39.235047,
+              0
+            ],
+            [
+              -76.822347,
+              39.23465,
+              0
+            ],
+            [
+              -76.821781,
+              39.234258,
+              0
+            ],
+            [
+              -76.821113,
+              39.23391,
+              0
+            ],
+            [
+              -76.820537,
+              39.233514,
+              0
+            ],
+            [
+              -76.81986,
+              39.233474,
+              0
+            ],
+            [
+              -76.818193,
+              39.232075,
+              0
+            ],
+            [
+              -76.81623,
+              39.231487,
+              0
+            ],
+            [
+              -76.815467,
+              39.23035,
+              0
+            ],
+            [
+              -76.813458,
+              39.229832,
+              0
+            ],
+            [
+              -76.811806,
+              39.229733,
+              0
+            ],
+            [
+              -76.812107,
+              39.226838,
+              0
+            ],
+            [
+              -76.812513,
+              39.226678,
+              0
+            ],
+            [
+              -76.812311,
+              39.2261,
+              0
+            ],
+            [
+              -76.811386,
+              39.224207,
+              0
+            ],
+            [
+              -76.810248,
+              39.223739,
+              0
+            ],
+            [
+              -76.809187,
+              39.223043,
+              0
+            ],
+            [
+              -76.808547,
+              39.22278,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "stroke": "#0080c0",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.5,
+        "name": "Red Hill Branch Watershed",
+        "description": "There are a mix of stream restorations and stormwater retrofits present, along with biological, geomorphic, water quality and streamflow monitoring.  This is part of the larger Little Patuxent watershed."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.34025764379612,
+              39.48212167280045,
+              0
+            ],
+            [
+              -76.34007075328934,
+              39.48205457659288,
+              0
+            ],
+            [
+              -76.33999570407222,
+              39.48202763279399,
+              0
+            ],
+            [
+              -76.33970321949585,
+              39.4819578471769,
+              0
+            ],
+            [
+              -76.33947021100391,
+              39.48179753134198,
+              0
+            ],
+            [
+              -76.33911953028722,
+              39.48168198560636,
+              0
+            ],
+            [
+              -76.33862271750611,
+              39.48152018833421,
+              0
+            ],
+            [
+              -76.33818495515979,
+              39.48131328782774,
+              0
+            ],
+            [
+              -76.33751312767644,
+              39.48105963941038,
+              0
+            ],
+            [
+              -76.33699739527418,
+              39.48075382259267,
+              0
+            ],
+            [
+              -76.33575861351942,
+              39.48152752039237,
+              0
+            ],
+            [
+              -76.33507235322672,
+              39.48181929956095,
+              0
+            ],
+            [
+              -76.3348319765502,
+              39.48197529075531,
+              0
+            ],
+            [
+              -76.3336788042566,
+              39.48352921727211,
+              0
+            ],
+            [
+              -76.3333557902375,
+              39.48394744339283,
+              0
+            ],
+            [
+              -76.33260429312772,
+              39.48443805586597,
+              0
+            ],
+            [
+              -76.33175435008528,
+              39.48475411153239,
+              0
+            ],
+            [
+              -76.33051556009708,
+              39.48504770390419,
+              0
+            ],
+            [
+              -76.32735524291374,
+              39.48712910852903,
+              0
+            ],
+            [
+              -76.32643814701694,
+              39.48832894849268,
+              0
+            ],
+            [
+              -76.32559818001975,
+              39.48968107784518,
+              0
+            ],
+            [
+              -76.32400456872368,
+              39.49221765597218,
+              0
+            ],
+            [
+              -76.32368278175069,
+              39.49277536517916,
+              0
+            ],
+            [
+              -76.32361472573858,
+              39.49319966090064,
+              0
+            ],
+            [
+              -76.32350589348181,
+              39.49388127590822,
+              0
+            ],
+            [
+              -76.3234954584338,
+              39.49443991452958,
+              0
+            ],
+            [
+              -76.3235847726891,
+              39.49498848580812,
+              0
+            ],
+            [
+              -76.32428062424518,
+              39.49575107756006,
+              0
+            ],
+            [
+              -76.32615533559168,
+              39.49646842145037,
+              0
+            ],
+            [
+              -76.32694243231775,
+              39.49693260924762,
+              0
+            ],
+            [
+              -76.32745057874043,
+              39.49762049718968,
+              0
+            ],
+            [
+              -76.32754705999736,
+              39.49816464375174,
+              0
+            ],
+            [
+              -76.32741871743237,
+              39.49882830686657,
+              0
+            ],
+            [
+              -76.3269908316417,
+              39.49952697769619,
+              0
+            ],
+            [
+              -76.32678780167701,
+              39.49993917714773,
+              0
+            ],
+            [
+              -76.32695935558307,
+              39.50029774950556,
+              0
+            ],
+            [
+              -76.3267144949357,
+              39.50068345803267,
+              0
+            ],
+            [
+              -76.32648138212835,
+              39.50081219055957,
+              0
+            ],
+            [
+              -76.3263227342316,
+              39.50085546886468,
+              0
+            ],
+            [
+              -76.32688546181693,
+              39.50126169307691,
+              0
+            ],
+            [
+              -76.32761672934306,
+              39.50144759242799,
+              0
+            ],
+            [
+              -76.32829173540387,
+              39.50138329605631,
+              0
+            ],
+            [
+              -76.32905663598223,
+              39.50111506709683,
+              0
+            ],
+            [
+              -76.32944124028182,
+              39.50075380937938,
+              0
+            ],
+            [
+              -76.32956282598374,
+              39.50030019060715,
+              0
+            ],
+            [
+              -76.32956519460988,
+              39.50005033353955,
+              0
+            ],
+            [
+              -76.32983100439755,
+              39.49984740713187,
+              0
+            ],
+            [
+              -76.33039022117211,
+              39.49962342989581,
+              0
+            ],
+            [
+              -76.33089100981454,
+              39.4993764041262,
+              0
+            ],
+            [
+              -76.33133487659049,
+              39.49894733043713,
+              0
+            ],
+            [
+              -76.33177959574296,
+              39.49842739571862,
+              0
+            ],
+            [
+              -76.33204711212875,
+              39.49804274946098,
+              0
+            ],
+            [
+              -76.3323445847364,
+              39.49759012389631,
+              0
+            ],
+            [
+              -76.33281860776925,
+              39.49707035168505,
+              0
+            ],
+            [
+              -76.33320359633026,
+              39.49666365146575,
+              0
+            ],
+            [
+              -76.33349934399213,
+              39.49639273985166,
+              0
+            ],
+            [
+              -76.33385351152677,
+              39.49614487191332,
+              0
+            ],
+            [
+              -76.33426695317038,
+              39.49582919103414,
+              0
+            ],
+            [
+              -76.33450427284039,
+              39.49553522873148,
+              0
+            ],
+            [
+              -76.334508119935,
+              39.49512637128238,
+              0
+            ],
+            [
+              -76.33433691953539,
+              39.49462566177706,
+              0
+            ],
+            [
+              -76.33434098133286,
+              39.49419408906286,
+              0
+            ],
+            [
+              -76.33437286234054,
+              39.49392168402918,
+              0
+            ],
+            [
+              -76.33469812475272,
+              39.49362821796967,
+              0
+            ],
+            [
+              -76.3349365031545,
+              39.49322068378782,
+              0
+            ],
+            [
+              -76.33520334148409,
+              39.49290417233302,
+              0
+            ],
+            [
+              -76.3355003461776,
+              39.49249696826932,
+              0
+            ],
+            [
+              -76.33594435508381,
+              39.4920451609942,
+              0
+            ],
+            [
+              -76.3362708812411,
+              39.49161540493287,
+              0
+            ],
+            [
+              -76.3365098830098,
+              39.4911397245271,
+              0
+            ],
+            [
+              -76.33663140401481,
+              39.49068609687041,
+              0
+            ],
+            [
+              -76.33695749388446,
+              39.49030176629233,
+              0
+            ],
+            [
+              -76.33722431214368,
+              39.48998525157697,
+              0
+            ],
+            [
+              -76.33734625501243,
+              39.48948619484967,
+              0
+            ],
+            [
+              -76.3372625670653,
+              39.48903141191898,
+              0
+            ],
+            [
+              -76.3370900832375,
+              39.48866699148366,
+              0
+            ],
+            [
+              -76.33706460165563,
+              39.48825796744445,
+              0
+            ],
+            [
+              -76.33698027610052,
+              39.48787132858087,
+              0
+            ],
+            [
+              -76.33698346974992,
+              39.48753061221199,
+              0
+            ],
+            [
+              -76.33701555190177,
+              39.48723549062013,
+              0
+            ],
+            [
+              -76.33719420284707,
+              39.48694119203844,
+              0
+            ],
+            [
+              -76.3375198469131,
+              39.48660228979425,
+              0
+            ],
+            [
+              -76.33784697625283,
+              39.48610438564915,
+              0
+            ],
+            [
+              -76.3380559995654,
+              39.48569667930031,
+              0
+            ],
+            [
+              -76.33838120886237,
+              39.48540320385473,
+              0
+            ],
+            [
+              -76.33876355398272,
+              39.4852690575775,
+              0
+            ],
+            [
+              -76.33920388950779,
+              39.48520338018218,
+              0
+            ],
+            [
+              -76.33952803134946,
+              39.48502347432305,
+              0
+            ],
+            [
+              -76.33985174760417,
+              39.48488899415732,
+              0
+            ],
+            [
+              -76.34029207974277,
+              39.48482331378509,
+              0
+            ],
+            [
+              -76.34070330871873,
+              39.4847347535886,
+              0
+            ],
+            [
+              -76.34105802812127,
+              39.48441872002616,
+              0
+            ],
+            [
+              -76.34106077878643,
+              39.48412343303745,
+              0
+            ],
+            [
+              -76.34091654210565,
+              39.48387275438953,
+              0
+            ],
+            [
+              -76.34103717811949,
+              39.48350997866289,
+              0
+            ],
+            [
+              -76.34104014043177,
+              39.48319197689025,
+              0
+            ],
+            [
+              -76.34107262757462,
+              39.48285142380733,
+              0
+            ],
+            [
+              -76.34095749427061,
+              39.4826236237444,
+              0
+            ],
+            [
+              -76.34081262602625,
+              39.48244108781943,
+              0
+            ],
+            [
+              -76.34063823662837,
+              39.48228110289777,
+              0
+            ],
+            [
+              -76.34031707569989,
+              39.48214300956464,
+              0
+            ],
+            [
+              -76.34025764379612,
+              39.48212167280045,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "stroke": "#0080c0",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.5,
+        "name": "Wheel Creek Watershed",
+        "description": "Wheel Creek study watershed. There are a mix of stream restorations and stormwater retrofits present, along with biological, geomorphic, water quality and streamflow monitoring."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.31940608697403,
+              39.48853956969261,
+              0
+            ],
+            [
+              -76.31975649865197,
+              39.48808081604491,
+              0
+            ],
+            [
+              -76.31988290011743,
+              39.48748915906236,
+              0
+            ],
+            [
+              -76.32004953409734,
+              39.48689773404405,
+              0
+            ],
+            [
+              -76.320254302418,
+              39.4865247765721,
+              0
+            ],
+            [
+              -76.32053983646095,
+              39.48612110628448,
+              0
+            ],
+            [
+              -76.32102893105981,
+              39.48546918246558,
+              0
+            ],
+            [
+              -76.32151831567577,
+              39.48478607990653,
+              0
+            ],
+            [
+              -76.32184376980514,
+              39.48441381447952,
+              0
+            ],
+            [
+              -76.32233045122807,
+              39.4840112974055,
+              0
+            ],
+            [
+              -76.32289759264786,
+              39.48360924078294,
+              0
+            ],
+            [
+              -76.3233437317779,
+              39.48323766473231,
+              0
+            ],
+            [
+              -76.32383099258244,
+              39.48277278812159,
+              0
+            ],
+            [
+              -76.32427771714552,
+              39.48233885524211,
+              0
+            ],
+            [
+              -76.32476347767555,
+              39.48202985760558,
+              0
+            ],
+            [
+              -76.32508741482027,
+              39.48181346584958,
+              0
+            ],
+            [
+              -76.32553442286567,
+              39.48134835145115,
+              0
+            ],
+            [
+              -76.32577997176071,
+              39.48091326075303,
+              0
+            ],
+            [
+              -76.32594475857806,
+              39.48050888570798,
+              0
+            ],
+            [
+              -76.32639056528582,
+              39.48016847432774,
+              0
+            ],
+            [
+              -76.32675560974025,
+              39.47985877801468,
+              0
+            ],
+            [
+              -76.32704048662961,
+              39.47951744427012,
+              0
+            ],
+            [
+              -76.32748628181697,
+              39.47917702862282,
+              0
+            ],
+            [
+              -76.32769187744105,
+              39.4787105272763,
+              0
+            ],
+            [
+              -76.32813766440964,
+              39.47837010906614,
+              0
+            ],
+            [
+              -76.32838141108812,
+              39.47812207238019,
+              0
+            ],
+            [
+              -76.32866597728773,
+              39.47781191114619,
+              0
+            ],
+            [
+              -76.32895024526637,
+              39.47753292584766,
+              0
+            ],
+            [
+              -76.32947529506777,
+              39.47731766740555,
+              0
+            ],
+            [
+              -76.32983883464813,
+              39.4771638445399,
+              0
+            ],
+            [
+              -76.33036476430684,
+              39.47685505210634,
+              0
+            ],
+            [
+              -76.33048810656966,
+              39.47657514810524,
+              0
+            ],
+            [
+              -76.33089393289157,
+              39.47620331386914,
+              0
+            ],
+            [
+              -76.3310580899288,
+              39.47586128435511,
+              0
+            ],
+            [
+              -76.3310211044097,
+              39.47551811237978,
+              0
+            ],
+            [
+              -76.33094418608893,
+              39.47514353517067,
+              0
+            ],
+            [
+              -76.33094919828369,
+              39.47461353141691,
+              0
+            ],
+            [
+              -76.33095303108784,
+              39.47420823436136,
+              0
+            ],
+            [
+              -76.33095597936885,
+              39.47389646735575,
+              0
+            ],
+            [
+              -76.33079949372365,
+              39.4734279026989,
+              0
+            ],
+            [
+              -76.33048033300999,
+              39.47314548350146,
+              0
+            ],
+            [
+              -76.33028303536403,
+              39.47273904279761,
+              0
+            ],
+            [
+              -76.33024428443146,
+              39.47258293049509,
+              0
+            ],
+            [
+              -76.33024694063538,
+              39.47230234004594,
+              0
+            ],
+            [
+              -76.33020966576349,
+              39.47199034410438,
+              0
+            ],
+            [
+              -76.33009252960248,
+              39.47161553711359,
+              0
+            ],
+            [
+              -76.32997421368914,
+              39.47136543687052,
+              0
+            ],
+            [
+              -76.3298976007064,
+              39.47095968169445,
+              0
+            ],
+            [
+              -76.32969972177035,
+              39.47061559317135,
+              0
+            ],
+            [
+              -76.32962133877649,
+              39.47039689814081,
+              0
+            ],
+            [
+              -76.32942257629844,
+              39.47014633930625,
+              0
+            ],
+            [
+              -76.32926285799425,
+              39.47002071616011,
+              0
+            ],
+            [
+              -76.32898305664756,
+              39.46983205186219,
+              0
+            ],
+            [
+              -76.32878341071829,
+              39.46967502213236,
+              0
+            ],
+            [
+              -76.3286239904491,
+              39.469518221354,
+              0
+            ],
+            [
+              -76.32842523397129,
+              39.46926766075856,
+              0
+            ],
+            [
+              -76.32830663190367,
+              39.46904873538237,
+              0
+            ],
+            [
+              -76.32806587703146,
+              39.46898500523656,
+              0
+            ],
+            [
+              -76.32774526617067,
+              39.46885846194162,
+              0
+            ],
+            [
+              -76.3275429589543,
+              39.46898202080519,
+              0
+            ],
+            [
+              -76.32717797406275,
+              39.46929172075386,
+              0
+            ],
+            [
+              -76.32665268012626,
+              39.46953814630845,
+              0
+            ],
+            [
+              -76.32628917280056,
+              39.46969195975677,
+              0
+            ],
+            [
+              -76.32572335067753,
+              39.46996932776984,
+              0
+            ],
+            [
+              -76.32551925351451,
+              39.4702799434895,
+              0
+            ],
+            [
+              -76.32527403723647,
+              39.47068385856473,
+              0
+            ],
+            [
+              -76.32466708486257,
+              39.47105452112318,
+              0
+            ],
+            [
+              -76.32442215873081,
+              39.47142725760062,
+              0
+            ],
+            [
+              -76.32409767142559,
+              39.47170600174572,
+              0
+            ],
+            [
+              -76.32369123914276,
+              39.47214016656688,
+              0
+            ],
+            [
+              -76.32344690037158,
+              39.47245054747374,
+              0
+            ],
+            [
+              -76.32296119986097,
+              39.47275954073467,
+              0
+            ],
+            [
+              -76.32231548391205,
+              39.47297407621353,
+              0
+            ],
+            [
+              -76.32171208316608,
+              39.47297060297959,
+              0
+            ],
+            [
+              -76.32102613466925,
+              39.47318489971524,
+              0
+            ],
+            [
+              -76.32026092626066,
+              39.4732740214456,
+              0
+            ],
+            [
+              -76.31969415249465,
+              39.47364489017828,
+              0
+            ],
+            [
+              -76.31928798202028,
+              39.47404786283488,
+              0
+            ],
+            [
+              -76.31863864010215,
+              39.47463649805939,
+              0
+            ],
+            [
+              -76.31815080026738,
+              39.47516370785306,
+              0
+            ],
+            [
+              -76.31746241348701,
+              39.47562739688549,
+              0
+            ],
+            [
+              -76.31685658197303,
+              39.47587331196259,
+              0
+            ],
+            [
+              -76.3163726367589,
+              39.47599521782521,
+              0
+            ],
+            [
+              -76.31572626820511,
+              39.4762720702139,
+              0
+            ],
+            [
+              -76.31532006004728,
+              39.47667502881168,
+              0
+            ],
+            [
+              -76.31467186906963,
+              39.4771389351145,
+              0
+            ],
+            [
+              -76.31410352370014,
+              39.47766565953742,
+              0
+            ],
+            [
+              -76.31346091582523,
+              39.47803415274865,
+              0
+            ],
+            [
+              -76.31377892016341,
+              39.47851176285071,
+              0
+            ],
+            [
+              -76.31439048926369,
+              39.48022128318205,
+              0
+            ],
+            [
+              -76.31460119520771,
+              39.48169218549857,
+              0
+            ],
+            [
+              -76.31452073417655,
+              39.48366638320541,
+              0
+            ],
+            [
+              -76.31423809046869,
+              39.48539042722231,
+              0
+            ],
+            [
+              -76.31449415519033,
+              39.48586070235153,
+              0
+            ],
+            [
+              -76.31474185572908,
+              39.48602910087604,
+              0
+            ],
+            [
+              -76.31620074410793,
+              39.48668378831037,
+              0
+            ],
+            [
+              -76.31756332769007,
+              39.48759185286085,
+              0
+            ],
+            [
+              -76.31826800746374,
+              39.48799848366625,
+              0
+            ],
+            [
+              -76.31940608697403,
+              39.48853956969261,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "stroke": "#0080c0",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.5,
+        "name": "Lower Winters Run Watershed (Control)",
+        "description": "This area is used as a control watershed for comparison to the Wheel Creek watershed. Wheel Creek is subject to several restoration projects. Biological data is taken from both watersheds and compared to determine the effect of these BMPs on biological integrity"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Lower Wheel Creek Stream Restoration",
+        "description": "Lower Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.33927345275879,
+              39.48208357812001
+            ],
+            [
+              -76.33811473846436,
+              39.48347473310234
+            ],
+            [
+              -76.33575439453125,
+              39.483839078618324
+            ],
+            [
+              -76.33438110351562,
+              39.48433591033674
+            ],
+            [
+              -76.33378028869629,
+              39.487084981687495
+            ],
+            [
+              -76.33455276489258,
+              39.4868531364927
+            ],
+            [
+              -76.33532524108887,
+              39.485130833703444
+            ],
+            [
+              -76.33609771728516,
+              39.48450152012079
+            ],
+            [
+              -76.33828639984131,
+              39.48426966631269
+            ],
+            [
+              -76.34000301361084,
+              39.483275998379995
+            ],
+            [
+              -76.34043216705321,
+              39.482746036344
+            ],
+            [
+              -76.33927345275879,
+              39.48208357812001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Lower Wheel Creek Stream Restoration",
+        "description": "Lower Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.33433818817139,
+              39.487681151496055
+            ],
+            [
+              -76.33373737335205,
+              39.48783019314957
+            ],
+            [
+              -76.33382320404053,
+              39.48893971541791
+            ],
+            [
+              -76.3340163230896,
+              39.49051288828579
+            ],
+            [
+              -76.33386611938475,
+              39.49165548626446
+            ],
+            [
+              -76.33382320404053,
+              39.49195355221426
+            ],
+            [
+              -76.33463859558105,
+              39.491920433838494
+            ],
+            [
+              -76.3345742225647,
+              39.49077784021395
+            ],
+            [
+              -76.33450984954833,
+              39.489304032301646
+            ],
+            [
+              -76.33433818817139,
+              39.487681151496055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Lower Wheel Creek Stream Restoration",
+        "description": "Lower Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.3334047794342,
+              39.48783019314957
+            ],
+            [
+              -76.33299708366394,
+              39.4883435563998
+            ],
+            [
+              -76.3328093290329,
+              39.48856297663283
+            ],
+            [
+              -76.33318483829498,
+              39.488881755737665
+            ],
+            [
+              -76.33353352546692,
+              39.48864577654082
+            ],
+            [
+              -76.3336569070816,
+              39.48831457631726
+            ],
+            [
+              -76.33341550827026,
+              39.48781363298164
+            ],
+            [
+              -76.3334047794342,
+              39.48783019314957
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Upper Wheel Creek Stream Restoration",
+        "description": "Upper Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.32833003997803,
+              39.4911794060553
+            ],
+            [
+              -76.32802426815032,
+              39.49116284668501
+            ],
+            [
+              -76.32777750492096,
+              39.491187685738964
+            ],
+            [
+              -76.32747709751129,
+              39.49138225802128
+            ],
+            [
+              -76.32739126682281,
+              39.49167204551743
+            ],
+            [
+              -76.3274073600769,
+              39.49201564912629
+            ],
+            [
+              -76.32761120796204,
+              39.49196183180574
+            ],
+            [
+              -76.32762193679808,
+              39.49177968056552
+            ],
+            [
+              -76.32780969142914,
+              39.49149817316467
+            ],
+            [
+              -76.32807791233063,
+              39.491419516481315
+            ],
+            [
+              -76.32826566696166,
+              39.491411236825236
+            ],
+            [
+              -76.32833003997803,
+              39.4911794060553
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f86767",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#e7857f",
+        "fill-opacity": 0.5,
+        "name": "Upper Wheel Creek Stream Restoration",
+        "description": "Upper Wheel Creek Stream Restoration"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -76.33116245269775,
+              39.49400686070092
+            ],
+            [
+              -76.33066892623901,
+              39.494164168124286
+            ],
+            [
+              -76.33044362068176,
+              39.494354592423704
+            ],
+            [
+              -76.32997155189514,
+              39.49505832987404
+            ],
+            [
+              -76.32959604263304,
+              39.49606010854399
+            ],
+            [
+              -76.32974624633789,
+              39.496382992807504
+            ],
+            [
+              -76.33007884025572,
+              39.49628364396308
+            ],
+            [
+              -76.33042216300963,
+              39.495199076509216
+            ],
+            [
+              -76.33081912994385,
+              39.494586412605955
+            ],
+            [
+              -76.33103370666504,
+              39.494387709639945
+            ],
+            [
+              -76.33116245269775,
+              39.49400686070092
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
